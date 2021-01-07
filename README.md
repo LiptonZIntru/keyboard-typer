@@ -15,7 +15,7 @@ Program for bypassing <b>ATF - psaní všemi deseti</b> program. It may also wor
 
 ------------------------------------------------------------------------
 
-#CZ version
+# CZ version
 ## Popis
 - Program pro obcházení programu <b>ATF - psaní všemi deseti</b>. Může fungovat také pro jiné programy, nicméně tahle kompabilita není garantovaná. Text je psán rychlostí 50 - 100ms za sekundu. Tyto hodnoty mohou být překonfigurovány v `config.json` souboru.
 
