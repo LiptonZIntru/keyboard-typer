@@ -9,7 +9,7 @@ Program for bypassing <b>ATF - psaní všemi deseti</b> program. It may also wor
 - after that navigate to root of this project and run `app.py` by typing `python3 app.py`
 
 ## Usage
-- `config.json` - configuration file where you can configure min and max typing speed <span style="color:red">in miliseconds</span>
+- `config.json` - configuration file where you can configure min and max typing speed (in miliseconds). You can also configure delay before program is executed (in seconds)
 - `text.txt`    - this file contains text which you want to be typed <span style="color:red">(WARNING, SPACES ARE ALSO TYPED)</span>
 - `app.py`      - program file, login part of this project
 
@@ -26,6 +26,6 @@ Program for bypassing <b>ATF - psaní všemi deseti</b> program. It may also wor
 - spusťte program spuštěním příkazu `python3 app.py`
 
 ## Nastavení
-- `config.json` - konfigurační soubor ve kterém se nastavuje minimální a maximální rychlost psaní <span style="color:red">v milisekundách</span>
-- `text.txt`    - sem napiště co chcete aby program napsal za text <span style="color:red">(POZOR NA MEZERY, TY PÍŠE TAKY)</span>
+- `config.json` - konfigurační soubor ve kterém se nastavuje minimální a maximální rychlost psaní (v milisekundách). Také si tam můžete nastavit čas, po který bude program čekat než se spustí (v sekundách)
+- `text.txt`    - sem napiště co chcete aby program napsal za text <span style="color:red">(POZOR NA MEZERY PŘED A ZA TEXTEM)</span>
 - `app.py`      - soubor, ve kterém je logika celého projektu
