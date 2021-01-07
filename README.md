@@ -1,6 +1,6 @@
 # Keyboard typer
 ## Description
-Program for bypassing <b>ATF - psaní všemi deseti</b> program. It may also work for other programs, but it hasn't been tested.
+Program for bypassing <b>ATF - psaní všemi deseti</b> program. It may also work for other programs, but it hasn't been tested. Text is written in random time from 50 - 100ms per letter. These values can be changed in `config.json` file.
 
 ## Setup
 - download and install Python 3 from https://www.python.org/downloads/
@@ -15,9 +15,10 @@ Program for bypassing <b>ATF - psaní všemi deseti</b> program. It may also wor
 
 ------------------------------------------------------------------------
 
-#CZ version
+# CZ version
 ## Popis
-- Program pro obcházení programu <b>ATF - psaní všemi deseti</b>. Může fungovat také pro jiné programy, nicméně tahle kompabilita není garantovaná
+- Program pro obcházení programu <b>ATF - psaní všemi deseti</b>. Může fungovat také pro jiné programy, nicméně tahle kompabilita není garantovaná. Text je psán rychlostí 50 - 100ms za sekundu. Tyto hodnoty mohou být překonfigurovány v `config.json` souboru.
+
 ## Prvotní spuštění
 - stáhněte si a nainstalujte Python 3 překladač z https://www.python.org/downloads/
 - otevřete si příkazový řádek nebo Terminal (Linux)
