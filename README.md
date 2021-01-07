@@ -11,7 +11,7 @@ Program for bypassing <b>ATF - psaní všemi deseti</b> program. It may also wor
 ## Usage
 - `config.json` - configuration file where you can configure min and max typing speed (in miliseconds). You can also configure delay before program is executed (in seconds)
 - `text.txt`    - this file contains text which you want to be typed <span style="color:red">(WARNING, SPACES ARE ALSO TYPED)</span>
-- `app.py`      - program file, login part of this project
+- `app.py`      - program file, login part of this projectThank you
 
 ------------------------------------------------------------------------
 

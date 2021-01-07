@@ -11,6 +11,7 @@ execute_delay = int(config['startup_delay'])
 
 for i in range(execute_delay):
     print("Program is executing in " + str(execute_delay - i - 1) + " seconds")
+    time.sleep(1)
 
 if(min_speed < max_speed):
     text = open('text.txt', 'r').read()
